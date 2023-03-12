@@ -59,8 +59,8 @@ I like to explore new technologies and develop software solutions and quick hack
 
 <div>
   <a href="https://github.com/devrabiul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrabiul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrabiul&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devrabiul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrabiul&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=devrabiul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
