@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/devrabiul)  
 
-I’m a Full Stack Developer who is passionate about making error-free websites with Laravel and React.js Framework. A self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm a working on 6amTech as a Laravel Developer. I love to work with new technologies and developing web applications like Laravel Framework. And love to solve real-world problems. 
+I’m a Backend Developer who is passionate about making error-free websites with Laravel Framework. A self-taught fast-learner backend developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm a working on 6amTech as a Laravel Developer. I love to work with new technologies and developing web applications like Laravel Framework. And love to solve real-world problems. 
 
 I am strategic, goal-oriented, and always work with an end goal in mind. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web development.
 
