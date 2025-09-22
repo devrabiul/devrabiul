@@ -1,39 +1,40 @@
 ![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge](https://i.ibb.co/SN7JKkw/Banner.jpg)
 
-### Hi, I'm Muhammad Rabiul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-👑 I'm Backend Developer <br>
-🖊️ Love to write code <br>
-🎤 Like to share my knowledge <br>
-📫 How to reach me ? devrabiul@gmail.com <be>
+# Hi, I'm Muhammad Rabiul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
-#### 👨‍💻 Professional Backend Developer | Laravel Specialist
+👑 **Backend Developer**  
+🖊️ **Passionate About Clean, Scalable Code**  
+🎤 **Love Sharing Knowledge**  
+📫 **Reach Me:** [devrabiul@gmail.com](mailto:devrabiul@gmail.com)
 
-Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, with a strong focus on crafting robust web solutions using Laravel Framework. With a commitment to excellence and a passion for continuous improvement, I'm dedicated to delivering high-quality code and exceptional user experiences.
+---
 
-##### About Me:
+## 👨‍💻 Professional Backend Developer | Laravel Specialist  
 
-🔧 Expertise: Specializing in Laravel development, I have a proven track record of creating error-free websites and scalable applications. My attention to detail and performance optimization ensure reliable and efficient solutions.
+I’m a backend developer based in **Dhaka** with a deep focus on the **Laravel Framework**.  
+I build **developer-friendly Laravel packages**, contribute to **open-source projects**, and create **robust, scalable web solutions**.
 
-🎯 Goal-driven: I approach every project with a strategic mindset, prioritizing clear objectives and measurable outcomes. Currently, I'm refining my skills to optimize the performance of responsive and progressive web applications.
+---
 
-💡 Tech Enthusiast: Beyond Laravel, I'm actively expanding my knowledge in React.js, Node.js, Next.js, and MongoDB, embracing new technologies to tackle complex challenges and drive innovation.
+### 📝 About Me
 
-##### What I Offer:
+- 🔧 **Expertise:** Laravel, RESTful APIs, clean architecture & performance optimization  
+- 🎯 **Goal Driven:** Building reliable, scalable apps & developer-friendly packages  
+- 💡 **Tech Enthusiast:** Actively exploring React.js, Node.js, Next.js, MongoDB to craft full-stack solutions  
+- 🤝 **Collaboration:** Always open to collaborating on open-source initiatives and innovative projects  
 
-🤝 Collaboration: I thrive in collaborative environments and am keen to join teams committed to excellence and innovation. Let's work together to create impactful web solutions and elevate the digital experience.
+---
 
-📚 Continuous Learning: With a passion for learning, I stay abreast of industry trends and best practices, always seeking opportunities to enhance my skills and stay ahead of the curve.
+### 🚀 What I Offer  
 
-🌐 Global Perspective: As a global citizen, I value diversity and collaboration. Whether it's Laravel projects or ventures into the MERN Stack, I'm excited to connect with fellow developers and explore new possibilities.
+- 💻 **Backend Development:** Laravel, PHP, MySQL with modern best practices  
+- 📦 **Package Development:** Developer-friendly, reusable Laravel packages for the community  
+- 🌐 **Global Mindset:** Comfortable collaborating with diverse teams worldwide  
+- 📚 **Continuous Learning:** Staying ahead with industry trends & emerging technologies  
 
-##### Let's Connect:
+---
 
-📩 If you're interested in collaboration or have insights to share, I'd love to connect! Feel free to reach out, and let's explore opportunities to work together or exchange ideas.
-
-✈️ Exploration: Outside of coding, I enjoy traveling and discovering new cultures and landscapes. Let's share travel stories and recommendations—it's not all about code!
-
-
-### <a>👨‍💻 Skills & Experiance:</a>
+### 🛠️ Skills & Technologies  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,30 +49,57 @@ Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
-** Like to use: **
-
+**Design Tools I Use:**  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-### Favorite IDEs/Editors 
-
+**Favorite IDEs:**  
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 
-<br>
+---
 
-# Github Statistics
+## 📦 Featured Laravel Packages  
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [Laravel Toaster Magic](https://github.com/devrabiul/laravel-toaster-magic) | Elegant toast notifications for Laravel Livewire SPA | [Docs](https://packages.rixetbd.com/devrabiul/laravel-toaster-magic) · [Packagist](https://packagist.org/packages/devrabiul/laravel-toaster-magic) |
+| [Laravel Cookie Consent](https://github.com/devrabiul/laravel-cookie-consent) | GDPR-compliant cookie consent banner with granular control | [Docs](https://packages.rixetbd.com/devrabiul/laravel-cookie-consent) · [Packagist](https://packagist.org/packages/devrabiul/laravel-cookie-consent) |
+| [GeoGenius](https://github.com/devrabiul/laravel-geogenius) | Timezone & country detection toolkit for Laravel apps | [Docs](https://packages.rixetbd.com/devrabiul/laravel-geo-genius) · [Packagist](https://packagist.org/packages/devrabiul/laravel-geo-genius) |
+| [Laravel PWA Kit](https://github.com/devrabiul/laravel-pwa-kit) | Lightweight toolkit to add Progressive Web App support | [Docs](https://packages.rixetbd.com/devrabiul/laravel-pwa-kit) · [Packagist](https://packagist.org/packages/devrabiul/laravel-pwa-kit) |
+| [Laravel SEO Manager](https://github.com/devrabiul/laravel-seo-manager) | Add and manage SEO-friendly meta tags easily | [Docs](https://packages.rixetbd.com/devrabiul/laravel-seo-manager) · [Packagist](https://packagist.org/packages/devrabiul/laravel-seo-manager) |
+| [Livewire Doctor](https://github.com/devrabiul/livewire-doctor) | Detect and fix common Livewire issues automatically | [Docs](https://packages.rixetbd.com/devrabiul/livewire-doctor) · [Packagist](https://packagist.org/packages/devrabiul/livewire-doctor) |
+
+---
+
+## 🏆 Badges  
 
 ![Visitor](https://komarev.com/ghpvc/?username=devrabiulz&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/devrabiul)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/devrabiul/devrabiul?style=flat-square&color=blueviolet)
 
+---
+
+## 🤝 Contact & Collaboration  
+
+I’m always excited to collaborate on:  
+- 🧩 **Developer-friendly Laravel packages**  
+- 🌍 **Open-source projects**  
+- 💡 **Innovative backend or full-stack solutions**
+
+[![Email Me](https://img.shields.io/badge/Email-devrabiul@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devrabiul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rixetbd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rixetbd)
+
+---
+
+### 📊 GitHub Stats  
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devrabiul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrabiul&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devrabiul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrabiul&layout=compact&langs_count=7&theme=radical"/>
 </div>
